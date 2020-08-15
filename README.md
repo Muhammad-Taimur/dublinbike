@@ -33,7 +33,7 @@ public static final String URL_DATA = "https://api.jcdecaux.com/vls/v1/stations/
 
 ## License:
 ```
-Copyright 2018, Muhammad Taimur
+Copyright 2017, Muhammad Taimur
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
